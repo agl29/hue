@@ -28,7 +28,7 @@ from beeswax.api import _autocomplete, get_functions
 from desktop.lib.django_test_util import make_logged_in_client
 from desktop.lib.test_utils import add_to_group, grant_access
 from useradmin.models import User
-
+#comm
 LOG = logging.getLogger()
 
 
